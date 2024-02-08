@@ -1,0 +1,15 @@
+export const VIEW_CART_SUCCESS = "cartReducer/VIEWCARTSUCCESS";
+export const VIEW_CART_FAILURE = "cartReducer/VIEWCARTFAILURE";
+export const VIEW_CART_REQUEST = "cartReducer/VIEWCARTREQUEST";
+
+export const CART_COUNT_SUCCESS = "cartReducer/CARTCOUNTSUCCESS";
+export const CART_COUNT_FAILURE = "cartReducer/CARTCOUNTFAILURE";
+export const CART_COUNT_REQUEST = "cartReducer/CARTCOUNTREQUEST";
+
+export const UPDATE_CART_SUCCESS = "cartReducer/UPDATECARTSUCCESS";
+export const UPDATE_CART_FAILURE = "cartReducer/UPDATECARTFAILURE";
+export const UPDATE_CART_REQUEST = "cartReducer/UPDATECARTREQUEST";
+
+export const DECREASE_QUANTITY = "DECREASE_QUANTITY";
+export const INCREASE_QUANTITY = "INCREASE_QUANTITY";
+export const REMOVE_FROM_CART = "REMOVE_FROM_CART";
